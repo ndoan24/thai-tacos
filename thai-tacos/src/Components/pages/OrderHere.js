@@ -2,5 +2,10 @@ import React from 'react';
 import '../../App.css';
 
 export default function OrderHere() {
-  return <h1 className='order-here'></h1>;
+  return <p className='order-here'>
+
+  <h1 className='order-here'>Order Here</h1>
+  
+  $3 per taco
+    </p>;
 }
